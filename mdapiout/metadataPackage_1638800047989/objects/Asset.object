@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject>
+    <sharingModel>Private</sharingModel>
+    <recordTypes>
+        <fullName>Test</fullName>
+        <label>Test</label>
+        <active>true</active>
+    </recordTypes>
+</CustomObject>

@@ -1,0 +1,5 @@
+<?xml version='1.0'?>
+<KnowledgeSettings>
+    <enableKnowledge>true</enableKnowledge>
+    <enableLightningKnowledge>true</enableLightningKnowledge>
+</KnowledgeSettings>

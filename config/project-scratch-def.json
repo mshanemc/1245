@@ -1,0 +1,39 @@
+{
+  "orgName": "ABC Company",
+  "description": "Baseline definition of the Health Cloud org",
+  "country": "US",
+  "edition": "Enterprise",
+  "hasSampleData": false,
+  "language": "en_US",
+  "features": [
+    "HealthCloudUser",
+    "Communities",
+    "ContactsToMultipleAccounts",
+    "PersonAccounts",
+    "RecordTypes"
+  ],
+  "settings": {
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "knowledgeSettings": {
+      "enableKnowledge": true,
+      "enableLightningKnowledge": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "sharingSettings": {
+      "enableAssetSharing": true
+    }
+  },
+  "objectSettings": {
+    "asset": {
+      "sharingModel": "private",
+      "defaultRecordType": "Test"
+    }
+  }
+}
